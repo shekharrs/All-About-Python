@@ -9,6 +9,7 @@
 
 ###############################################
 
+# Using Library Function
 import math
 
 n = int(input("Enter a number: "))
