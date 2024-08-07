@@ -27,7 +27,20 @@
 # for i in range(n) :
 #     for j in range(n-i) :
 #         print("*", end=" ")
-#     print()     
+#     print() 
+
+
+# Right angle triangle👍
+
+n = int(input("Enter a number: "))
+
+for i in range(n):
+    if i == 0:
+        print('*')
+    elif i == n-1:
+        print('* ' * n)
+    else:
+        print('*', '  ' * i , '*',sep='')        
 
 
 # Pyramid Pattern👍
