@@ -54,5 +54,3 @@
 
 # res = ((a+b) // c) + d
 # print(res)
-
-print(~(~2))
