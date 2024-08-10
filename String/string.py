@@ -54,5 +54,7 @@ print(s4)
 s1="c:\project\name.py"
 print(s1)
 
-s2=r"c:\project\name.py"
+s2=r"c:\project\name.py"    # raw string denote by r
 print(s2)
+
+######################################################################
