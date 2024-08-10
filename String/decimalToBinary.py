@@ -17,7 +17,7 @@
 # Direct Method (inbuilt method)
 
 def decToBin(n):
-    res = bin(n)
+    res = bin(n)  # inbuilt[ bin() ]
     return res[2:]
 
 for i in range(1,16):
