@@ -10,7 +10,7 @@
 # l = [10,20,30,40]
 # print(average(l))    
 
-def average(l):
+def average(l):               # short method
     return sum(l) / len(l)
 
 l = [10,20,30,40]
