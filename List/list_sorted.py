@@ -18,20 +18,16 @@
 
 # Using sorted() method
 
-# def isSorted(l):
-#     l2 = sorted(l)
+def isSorted(l):
+    l2 = sorted(l)
 
-#     if l == l2:
-#         return True
-#     else :
-#         return False
+    if l == l2:
+        return True
+    else :
+        return False
 
-# l = [10,20,30,15,40]
-# if isSorted(l):
-#     print("YES")
-# else:
-#     print("NO")      
-
-
-list1 = range(100,110)
-print("index of element 105 is:",list1.index(105))
+l = [10,20,30,15,40]
+if isSorted(l):
+    print("YES")
+else:
+    print("NO")      
