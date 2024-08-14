@@ -21,3 +21,9 @@ def disElement(l):
 
 l = [10,20,10,30,30,20]
 print(disElement(l))
+
+def disElement(l):
+    return len(set(l))
+
+l = [10,20,10,30,30,20]
+print(disElement(l))
