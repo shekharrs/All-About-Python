@@ -19,6 +19,10 @@
 # c1.add(c2)
 # c1.print()
 
+#############################################################################
+
+# Real life use case of class & objects
+
 class Student:
 
     # default constructor

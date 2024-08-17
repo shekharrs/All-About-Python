@@ -44,4 +44,3 @@ class Node:
   
 print(Node.cls_msg) 
 print(Node().cls_msg)
-print(Node.self.msg())
